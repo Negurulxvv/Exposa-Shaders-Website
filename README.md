@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome!
+Hello and welcome to Exposa Shader's website where here you will see all the news and releases of Exposa! This is my first time creating a github website so please dm my discord if I did any issues with it. Here's my discord account: BetterOffDead#7945
+This website will always be updated until news about the website which I will always make sure to tell you about.
 
-You can use the [editor on GitHub](https://github.com/Negurulxvv/Exposa-Shaders-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What's Exposa Shaders?
+Exposa Shaders are shaders that you are able to use for Minecraft Java Edition. These shaders have many features and code in it and it works currently for: Intel, Nvidia, AMD and Apple products. It can work up to 1.14.4, if you see any problems, make sure to again DM my discord account: BetterOffDead#7945 so I can always know what I need to fix/know. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What Does Exposa Shaders Have?
+Exposa has all of these features and effects listed below:
 
-### Markdown
+- DOF
+- Motion Blur
+- 2D Clouds
+- Layered Clouds
+- Volumetric Clouds
+- Temporal Anti Aliasing
+- Dither
+- Different colors of lighting and clouds in different times of the day
+- Shadows
+- Bloom
+- Waving terrain (waving grass, leaves, etc)
+- Custom water
+- Custom sky colors (still vanilla sun and moon for now)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Negurulxvv/Exposa-Shaders-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Soon there will be more features and effects coming soon.
